@@ -1,0 +1,64 @@
+body {
+margin: zero px;
+}
+.site_banner {
+	border-top: solid 8px;
+	border-bottom: solid 1px;
+	padding: 20px;
+	text-align: center;
+	}
+#logo{
+	width: 330px;
+}
+
+h3 {
+	font-family:basier, serif;
+	font-style:strong;
+	font-size: 14px;
+	color: #de2f23;
+	letter-spacing: 1px;
+	}
+
+.article{
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.story_header {
+	font-family:basier, serif;
+	font-size: 46px;
+	margin-bottom: 0px;
+}
+
+.story_copy{
+	font-family:pensum, sans-serif;
+	font-size: 20px;
+}
+
+img{
+	width: 100%;
+}
+
+.photo_caption{
+color: gray;
+font-size: 14px;
+margin-top: 0px;
+}
+
+.footer{
+	font-family: basier, sans-serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	color:  gray;
+	font-size: 14px;
+}
+a:link{
+	color: teal;
+}
+a:visited {
+	color: darkmagenta;
+}
+a:hover{
+color: green;
+}
